@@ -4,7 +4,7 @@ Este projeto é um pequeno estudo cujo objetivo é mostrar (ainda que superficia
 
 ## Google OpenBuildings
 
-O [Google OpenBuildings](https://sites.research.google/open-buildings/) é um dataset com ao *building footprints* de quase todo o mundo gerados automaticamente pelo Google e disponibilizados para download. São polígonos que ajudam a entender com precisão a presença humana no território e são, por isso, insumos fundamentais para estudos intraurbanos, ambientais, levantamentos estatísticos etc.
+O [Google OpenBuildings](https://sites.research.google/open-buildings/) é um dataset com os *building footprints* de quase todo o mundo gerados automaticamente pelo Google e disponibilizados para download. São polígonos que ajudam a entender com precisão a presença humana no território e são, por isso, insumos fundamentais para estudos intraurbanos, ambientais, levantamentos estatísticos etc.
 
 ## Metodologia
 * Refs:
@@ -14,11 +14,11 @@ O [Google OpenBuildings](https://sites.research.google/open-buildings/) é um da
 * Geração do Grid com 200m de lado e cálculo da área em *m²*;
 * Sobreposição (*Intersect*) das Edificações com o Grid;
 * Cáculo da área das edificações intersectadas com cada Grid - **Área Edificada**;
-* Cálculo % da área edificada em cada Grid;
+* Cálculo dos percentuais da área edificada em cada Grid;
 
 
     ![% Área Edificada](img/perc_area_edificada.jpg)
-* Classificação dos % de Área Edificada com base na própria densidade;
+* Classificação dos percentuais de Área Edificada com base na própria densidade;
 
 
     ![Class - % Área Edificada](img/class_perc_area_edificada.jpg)
@@ -27,5 +27,6 @@ O [Google OpenBuildings](https://sites.research.google/open-buildings/) é um da
 
     ![Quarteis - % Área Edificada](img/class_quarteis_area_edificada.jpg)
 
-## Observações
+
+#### Observações
 Não é um projeto de trabalho acadêmico. É apenas um breve levantamento utilizando dados do Google OpenBuildings em um contexto intraurbano.
