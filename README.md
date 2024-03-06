@@ -1,6 +1,6 @@
 # Levantamento do % de Área Edificada em Campinas com Google OpenBuildings
 
-Este projeto é um pequeno estudo cujo objetivo é mostrar (ainda que superficialmente) as possibilidades e a importância da a área edificada (aqui considerada apenas como a área coberta pelas edificações do Google OpenBuildings) para estudos e análises intraurbanas de uma grande cidade como Campinas/SP.
+Este projeto é um pequeno estudo cujo objetivo é mostrar (ainda que superficialmente) as possibilidades e a importância de analisar a área edificada (aqui considerada apenas como a área coberta pelas edificações do Google OpenBuildings) para estudos e análises intraurbanas de uma grande cidade como Campinas/SP.
 
 ## Google OpenBuildings
 
