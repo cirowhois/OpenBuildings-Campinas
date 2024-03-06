@@ -22,7 +22,7 @@ O [Google OpenBuildings](https://sites.research.google/open-buildings/) é um da
 
 
     ![Class - % Área Edificada](img/class_perc_area_edificada.jpg)
-* Classificação da [concentração](https://www.embrapa.br/macrologistica/como-fizemos/analise-da-producao) da Área Edificada em Quarteis.
+* Classificação da concentração da Área Edificada em Quarteis.
 
 
     ![Quarteis - % Área Edificada](img/class_quarteis_area_edificada.jpg)
